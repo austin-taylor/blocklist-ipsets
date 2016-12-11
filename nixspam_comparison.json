@@ -14,7 +14,7 @@
 	{
 		"name": "bds_atif",
 		"category": "reputation",
-		"ips": 5790,
+		"ips": 5891,
 		"common": 6
 	},
 	{
@@ -98,13 +98,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29421,
-		"common": 2615
+		"ips": 29353,
+		"common": 2636
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10292,
+		"ips": 10289,
 		"common": 3
 	},
 	{
@@ -122,14 +122,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1211,
+		"ips": 1210,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20718,
-		"common": 2594
+		"ips": 20657,
+		"common": 2615
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -260,73 +260,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2996,
-		"common": 33
+		"ips": 2994,
+		"common": 32
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7329,
+		"ips": 7320,
 		"common": 63
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77800,
+		"ips": 77763,
 		"common": 451
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21525,
+		"ips": 21526,
 		"common": 143
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 996,
+		"ips": 994,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 2480,
+		"ips": 2479,
 		"common": 25
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 37824,
+		"ips": 37802,
 		"common": 184
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 11423,
+		"ips": 11425,
 		"common": 85
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5749,
+		"ips": 5745,
 		"common": 43
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 56177,
+		"ips": 56162,
 		"common": 309
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13199,
+		"ips": 13200,
 		"common": 70
 	},
 	{
@@ -368,13 +368,13 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7104,
+		"ips": 7106,
 		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 288769,
+		"ips": 288768,
 		"common": 1849
 	},
 	{
@@ -470,20 +470,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12038,
+		"ips": 12034,
 		"common": 177
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221849,
+		"ips": 221819,
 		"common": 1419
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50365,
-		"common": 1877
+		"ips": 50403,
+		"common": 1879
 	},
 	{
 		"name": "firehol_level1",
@@ -494,8 +494,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37108,
-		"common": 2621
+		"ips": 37097,
+		"common": 2642
 	},
 	{
 		"name": "firehol_level3",
@@ -512,8 +512,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37250,
-		"common": 1876
+		"ips": 37253,
+		"common": 1878
 	},
 	{
 		"name": "firehol_webclient",
@@ -836,7 +836,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 344,
+		"ips": 404,
 		"common": 1
 	},
 	{
@@ -1082,7 +1082,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5001,
+		"ips": 5002,
 		"common": 13
 	},
 	{
@@ -1178,20 +1178,20 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 6687,
-		"common": 1016
+		"ips": 6671,
+		"common": 1021
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21854,
-		"common": 1806
+		"ips": 21857,
+		"common": 1808
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 14920,
-		"common": 1715
+		"ips": 14922,
+		"common": 1717
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1274,7 +1274,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 144,
+		"ips": 142,
 		"common": 3
 	},
 	{
@@ -1394,7 +1394,7 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 13,
+		"ips": 12,
 		"common": 1
 	},
 	{
