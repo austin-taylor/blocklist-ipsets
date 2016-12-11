@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50531,
+		"ips": 50525,
 		"common": 1
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37409,
+		"ips": 37403,
 		"common": 1
 	},
 	{
@@ -273,7 +273,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50985446,
-		"common": 89
+		"common": 90
 	},
 	{
 		"name": "gofferje_sip",
@@ -297,7 +297,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -339,7 +339,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690221,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "iblocklist_level2",
@@ -434,8 +434,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2981,
-		"common": 15
+		"ips": 2984,
+		"common": 16
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -453,7 +453,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50750600,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "shunlist",
@@ -555,6 +555,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 21859,
-		"common": 225
+		"common": 226
 	}
 ]

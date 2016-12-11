@@ -452,7 +452,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 411,
+		"ips": 413,
 		"common": 1
 	},
 	{
@@ -464,8 +464,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 2466,
-		"common": 233
+		"ips": 2467,
+		"common": 232
 	},
 	{
 		"name": "dm_tor",
@@ -770,8 +770,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50531,
-		"common": 5773
+		"ips": 50525,
+		"common": 5776
 	},
 	{
 		"name": "firehol_level1",
@@ -800,8 +800,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37409,
-		"common": 4794
+		"ips": 37403,
+		"common": 4797
 	},
 	{
 		"name": "firehol_webclient",
@@ -1322,8 +1322,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2981,
-		"common": 377
+		"ips": 2984,
+		"common": 382
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1334,7 +1334,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 78,
+		"ips": 74,
 		"common": 3
 	},
 	{
@@ -1640,20 +1640,20 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 6607,
-		"common": 870
+		"ips": 6595,
+		"common": 865
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21943,
-		"common": 3425
+		"ips": 21947,
+		"common": 3423
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 14994,
-		"common": 1926
+		"ips": 14988,
+		"common": 1923
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1748,26 +1748,26 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 66,
-		"common": 3
+		"ips": 75,
+		"common": 9
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 139,
-		"common": 11
+		"ips": 151,
+		"common": 17
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2095,
-		"common": 424
+		"ips": 2079,
+		"common": 428
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 447,
-		"common": 32
+		"ips": 456,
+		"common": 38
 	},
 	{
 		"name": "stopforumspam",
