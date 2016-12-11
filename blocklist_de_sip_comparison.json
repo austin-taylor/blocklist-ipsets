@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 30684,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "atlas_scans",
@@ -45,25 +45,25 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1856,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9918,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 4526,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 7869,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -74,13 +74,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29307,
-		"common": 172
+		"ips": 29330,
+		"common": 170
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9861,
+		"ips": 9849,
 		"common": 4
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 7443,
+		"ips": 7530,
 		"common": 11
 	},
 	{
@@ -159,7 +159,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 45312,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dshield_7d",
@@ -194,19 +194,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37001,
-		"common": 172
+		"ips": 37022,
+		"common": 170
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123336,
-		"common": 18
+		"ips": 123419,
+		"common": 17
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574986,
+		"ips": 9574974,
 		"common": 15
 	},
 	{
@@ -327,7 +327,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -380,14 +380,14 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38239,
+		"ips": 38195,
 		"common": 1
 	},
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 14568,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "openbl_1d",
@@ -405,13 +405,13 @@
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 23082,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 7879,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "openbl_7d",
@@ -423,13 +423,13 @@
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 9905,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 132055,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "packetmail",
