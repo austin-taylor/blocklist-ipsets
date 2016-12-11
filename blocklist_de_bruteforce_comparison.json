@@ -38,14 +38,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29087,
-		"common": 1315
+		"ips": 29098,
+		"common": 1316
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10330,
-		"common": 1315
+		"ips": 10332,
+		"common": 1316
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8135,
-		"common": 354
+		"ips": 8134,
+		"common": 353
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -242,20 +242,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35572,
-		"common": 1315
+		"ips": 35583,
+		"common": 1316
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123318,
+		"ips": 123329,
 		"common": 3
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573577,
-		"common": 366
+		"ips": 9573576,
+		"common": 365
 	},
 	{
 		"name": "firehol_webclient",
@@ -273,7 +273,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095394,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "gpf_comics",
@@ -357,13 +357,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 54
+		"common": 53
 	},
 	{
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 867825,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -428,7 +428,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37170,
+		"ips": 37006,
 		"common": 2
 	},
 	{
@@ -579,12 +579,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 18256,
-		"common": 1
-	},
-	{
-		"name": "voipbl",
-		"category": "attacks",
-		"ips": 21859,
 		"common": 1
 	}
 ]
