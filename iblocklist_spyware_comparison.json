@@ -44,7 +44,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1491,
+		"ips": 1493,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9722,
+		"ips": 9721,
 		"common": 12
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15990,
+		"ips": 15992,
 		"common": 13
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5106,
+		"ips": 5100,
 		"common": 5
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12414,
+		"ips": 12401,
 		"common": 6
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50103,
+		"ips": 50107,
 		"common": 28
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37775,
+		"ips": 37157,
 		"common": 5
 	},
 	{
@@ -572,25 +572,25 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574761,
+		"ips": 9574762,
 		"common": 339021
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37048,
+		"ips": 37052,
 		"common": 11
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14373,
+		"ips": 14374,
 		"common": 32
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 50984732,
+		"ips": 50984872,
 		"common": 35573
 	},
 	{
@@ -620,7 +620,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1425,
+		"ips": 714,
 		"common": 1
 	},
 	{
@@ -638,8 +638,8 @@
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 22955,
-		"common": 163
+		"ips": 23106,
+		"common": 164
 	},
 	{
 		"name": "hphosts_exp",
@@ -1062,21 +1062,27 @@
 		"common": 1
 	},
 	{
+		"name": "proxylists",
+		"category": "anonymizers",
+		"ips": 1032,
+		"common": 1
+	},
+	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2548,
+		"ips": 2572,
 		"common": 2
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 10198,
+		"ips": 10204,
 		"common": 3
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5130,
+		"ips": 5126,
 		"common": 2
 	},
 	{
@@ -1124,13 +1130,13 @@
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2607,
+		"ips": 2611,
 		"common": 1
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 970,
+		"ips": 974,
 		"common": 1
 	},
 	{
@@ -1154,7 +1160,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1292,
+		"ips": 1293,
 		"common": 3
 	},
 	{
