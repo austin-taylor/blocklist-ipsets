@@ -3,13 +3,31 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 261,
-		"common": 9
+		"common": 7
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 661975983,
-		"common": 9
+		"common": 7
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 50984830,
+		"common": 1
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 28896,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 18942,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
@@ -30,21 +48,15 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_level1",
-		"category": "reputation",
-		"ips": 762690221,
-		"common": 1
-	},
-	{
-		"name": "sorbs_dul",
+		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 375550513,
+		"ips": 1508168,
 		"common": 1
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 2
+		"common": 1
 	}
 ]
