@@ -21,7 +21,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -116,25 +116,25 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2971,
+		"ips": 2963,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 7309,
+		"ips": 7294,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77755,
+		"ips": 77746,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21523,
+		"ips": 21494,
 		"common": 1
 	},
 	{
@@ -146,19 +146,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5781,
+		"ips": 5779,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 56152,
+		"ips": 56149,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13197,
+		"ips": 13174,
 		"common": 1
 	},
 	{
@@ -356,20 +356,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12060,
+		"ips": 12040,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221820,
+		"ips": 221817,
 		"common": 15
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661971884,
-		"common": 17
+		"ips": 661971883,
+		"common": 14
 	},
 	{
 		"name": "firehol_level2",
@@ -381,7 +381,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 123392,
-		"common": 63
+		"common": 61
 	},
 	{
 		"name": "firehol_level4",
@@ -392,14 +392,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14374,
-		"common": 1293
+		"ips": 14371,
+		"common": 1290
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50984830,
-		"common": 1097
+		"common": 1094
 	},
 	{
 		"name": "gofferje_sip",
@@ -435,7 +435,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 23106,
-		"common": 1058
+		"common": 1055
 	},
 	{
 		"name": "hphosts_exp",
@@ -489,13 +489,13 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 85
+		"common": 84
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -519,7 +519,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690221,
-		"common": 64
+		"common": 63
 	},
 	{
 		"name": "iblocklist_level2",
@@ -537,7 +537,7 @@
 		"name": "iblocklist_malc0de",
 		"category": "malware",
 		"ips": 276,
-		"common": 8
+		"common": 6
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -567,7 +567,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "lashback_ubl",
@@ -579,7 +579,7 @@
 		"name": "malc0de",
 		"category": "malware",
 		"ips": 281,
-		"common": 9
+		"common": 7
 	},
 	{
 		"name": "malwaredomainlist",
@@ -626,26 +626,26 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 132055,
+		"ips": 132139,
 		"common": 5
 	},
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
 		"ips": 51,
-		"common": 3
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50750600,
-		"common": 152
+		"common": 151
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4998,
-		"common": 1293
+		"ips": 4999,
+		"common": 1290
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -654,16 +654,10 @@
 		"common": 5
 	},
 	{
-		"name": "ransomware_locky_ps",
-		"category": "malware",
-		"ips": 6,
-		"common": 2
-	},
-	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11490,
-		"common": 16
+		"ips": 11489,
+		"common": 13
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
@@ -729,7 +723,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "urlvir",
@@ -747,7 +741,7 @@
 		"name": "vxvault",
 		"category": "malware",
 		"ips": 90,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "zeus",
