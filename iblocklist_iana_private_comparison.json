@@ -54,6 +54,18 @@
 		"common": 4
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29901,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 171,
+		"common": 1
+	},
+	{
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
@@ -264,9 +276,15 @@
 		"common": 51643382
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 40590,
+		"common": 1
+	},
+	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574756,
+		"ips": 9574748,
 		"common": 14
 	},
 	{

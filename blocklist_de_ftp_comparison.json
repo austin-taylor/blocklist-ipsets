@@ -44,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29813,
-		"common": 240
+		"ips": 29901,
+		"common": 242
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9719,
-		"common": 30
+		"ips": 9710,
+		"common": 31
 	},
 	{
 		"name": "botscout_1d",
@@ -93,13 +93,19 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 77876,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 21548,
 		"common": 3
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 37869,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated",
@@ -153,13 +159,13 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 221859,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40504,
-		"common": 240
+		"ips": 40590,
+		"common": 242
 	},
 	{
 		"name": "firehol_level3",
@@ -170,8 +176,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574756,
-		"common": 36
+		"ips": 9574748,
+		"common": 37
 	},
 	{
 		"name": "firehol_webserver",
@@ -189,7 +195,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1431,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "iblocklist_badpeers",
