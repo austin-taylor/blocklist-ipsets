@@ -1,0 +1,74 @@
+[
+	{
+		"name": "atlas_fastflux",
+		"category": "attacks",
+		"ips": 10,
+		"common": 10
+	},
+	{
+		"name": "atlas_fastflux_2d",
+		"category": "attacks",
+		"ips": 15,
+		"common": 15
+	},
+	{
+		"name": "atlas_fastflux_30d",
+		"category": "attacks",
+		"ips": 44,
+		"common": 30
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 14342,
+		"common": 15
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 50984732,
+		"common": 20
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 15827,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 22955,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656175779,
+		"common": 7
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762690690,
+		"common": 13
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 13
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139023007,
+		"common": 8
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 50750600,
+		"common": 20
+	}
+]
