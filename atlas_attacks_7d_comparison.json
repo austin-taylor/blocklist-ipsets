@@ -84,6 +84,18 @@
 		"common": 4
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29258,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 10242,
+		"common": 1
+	},
+	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1337,
@@ -200,8 +212,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36991,
-		"common": 1
+		"ips": 36958,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",

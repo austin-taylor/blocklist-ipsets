@@ -74,8 +74,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29290,
-		"common": 169
+		"ips": 29258,
+		"common": 172
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -138,6 +138,12 @@
 		"common": 4
 	},
 	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 288769,
+		"common": 1
+	},
+	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 305911,
@@ -188,8 +194,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36991,
-		"common": 169
+		"ips": 36958,
+		"common": 172
 	},
 	{
 		"name": "firehol_level3",
@@ -213,7 +219,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50984830,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "fullbogons",
@@ -243,7 +249,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -369,7 +375,13 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3456391,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38324,
+		"common": 1
 	},
 	{
 		"name": "openbl_180d",
@@ -380,7 +392,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 348,
+		"ips": 344,
 		"common": 2
 	},
 	{
@@ -429,7 +441,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50750600,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "shunlist",
@@ -444,6 +456,12 @@
 		"common": 16
 	},
 	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 202955,
+		"common": 1
+	},
+	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22993510,
@@ -453,7 +471,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1506073,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_web",
@@ -489,6 +507,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 21859,
-		"common": 78
+		"common": 79
 	}
 ]
