@@ -62,13 +62,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29506,
+		"ips": 29191,
 		"common": 550
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10058,
+		"ips": 10064,
 		"common": 2
 	},
 	{
@@ -80,31 +80,31 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1116,
+		"ips": 1127,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1227,
-		"common": 9
+		"ips": 1230,
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22557,
+		"ips": 22245,
 		"common": 501
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 172,
+		"ips": 168,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3607,
+		"ips": 3604,
 		"common": 12
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9711,
+		"ips": 9716,
 		"common": 128
 	},
 	{
@@ -470,25 +470,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661975980,
+		"ips": 661975984,
 		"common": 92
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38346,
+		"ips": 38032,
 		"common": 551
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 124163,
+		"ips": 124281,
 		"common": 166
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574749,
+		"ips": 9574754,
 		"common": 476
 	},
 	{
@@ -800,8 +800,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38678,
-		"common": 477
+		"ips": 38672,
+		"common": 474
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1064,7 +1064,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4997,
+		"ips": 4998,
 		"common": 1
 	},
 	{
@@ -1167,7 +1167,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375550513,
-		"common": 71388
+		"common": 71389
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1203,7 +1203,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 2254
+		"common": 2256
 	},
 	{
 		"name": "sp_atma",
