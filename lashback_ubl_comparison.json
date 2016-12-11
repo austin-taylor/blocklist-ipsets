@@ -110,55 +110,55 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29242,
-		"common": 6446
+		"ips": 29211,
+		"common": 6400
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10324,
-		"common": 46
+		"ips": 10325,
+		"common": 45
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1445,
+		"ips": 1450,
 		"common": 25
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1309,
-		"common": 41
+		"ips": 1310,
+		"common": 40
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 246,
+		"ips": 248,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1220,
-		"common": 52
+		"ips": 1224,
+		"common": 54
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20500,
-		"common": 6298
+		"ips": 20444,
+		"common": 6252
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 214,
+		"ips": 215,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5054,
+		"ips": 5068,
 		"common": 68
 	},
 	{
@@ -434,8 +434,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 288768,
-		"common": 7521
+		"ips": 288797,
+		"common": 7523
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -470,7 +470,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 32997,
+		"ips": 32998,
 		"common": 648
 	},
 	{
@@ -716,14 +716,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36497,
-		"common": 6474
+		"ips": 36464,
+		"common": 6428
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123227,
-		"common": 745
+		"ips": 123316,
+		"common": 746
 	},
 	{
 		"name": "firehol_level4",
@@ -1160,8 +1160,8 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 5355,
-		"common": 117
+		"ips": 5444,
+		"common": 118
 	},
 	{
 		"name": "openbl_360d",
@@ -1178,8 +1178,8 @@
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 2425,
-		"common": 57
+		"ips": 2507,
+		"common": 56
 	},
 	{
 		"name": "openbl_90d",
@@ -1418,7 +1418,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5000,
+		"ips": 4998,
 		"common": 35
 	},
 	{
@@ -1766,13 +1766,13 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 64,
+		"ips": 67,
 		"common": 4
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 152,
+		"ips": 157,
 		"common": 11
 	},
 	{
