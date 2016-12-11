@@ -68,32 +68,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28116,
-		"common": 381
+		"ips": 28048,
+		"common": 383
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10204,
+		"ips": 10208,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1207,
+		"ips": 1214,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21032,
+		"ips": 20947,
 		"common": 29
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 208,
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3600,
-		"common": 350
+		"ips": 3563,
+		"common": 349
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -230,7 +236,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 2452,
+		"ips": 2454,
 		"common": 330
 	},
 	{
@@ -356,8 +362,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36317,
-		"common": 586
+		"ips": 36248,
+		"common": 587
 	},
 	{
 		"name": "firehol_level3",
@@ -608,8 +614,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2933,
-		"common": 30
+		"ips": 2952,
+		"common": 31
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -620,7 +626,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 87,
+		"ips": 82,
 		"common": 1
 	},
 	{

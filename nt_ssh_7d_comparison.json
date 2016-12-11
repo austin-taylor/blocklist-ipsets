@@ -50,25 +50,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28116,
+		"ips": 28048,
 		"common": 52
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10204,
+		"ips": 10208,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21032,
+		"ips": 20947,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 208,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3600,
+		"ips": 3563,
 		"common": 50
 	},
 	{
@@ -134,7 +140,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 2452,
+		"ips": 2454,
 		"common": 29
 	},
 	{
@@ -230,7 +236,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36317,
+		"ips": 36248,
 		"common": 53
 	},
 	{
@@ -398,7 +404,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2933,
+		"ips": 2952,
 		"common": 3
 	},
 	{
