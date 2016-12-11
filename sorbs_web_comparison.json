@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9733,
+		"ips": 9719,
 		"common": 240
 	},
 	{
@@ -722,13 +722,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50045,
+		"ips": 50042,
 		"common": 1297
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661975981,
+		"ips": 661975982,
 		"common": 2972
 	},
 	{
@@ -746,7 +746,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574768,
+		"ips": 9574756,
 		"common": 4456
 	},
 	{
@@ -1160,8 +1160,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38714,
-		"common": 4655
+		"ips": 38694,
+		"common": 4650
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1346,25 +1346,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1258,
-		"common": 86
+		"ips": 1076,
+		"common": 79
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2485,
-		"common": 140
+		"ips": 2548,
+		"common": 147
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 10199,
-		"common": 385
+		"ips": 10198,
+		"common": 387
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5139,
+		"ips": 5130,
 		"common": 264
 	},
 	{
@@ -1416,22 +1416,28 @@
 		"common": 129
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 26,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 250,
-		"common": 5
+		"ips": 252,
+		"common": 6
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2606,
+		"ips": 2607,
 		"common": 58
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 972,
-		"common": 21
+		"ips": 970,
+		"common": 22
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1742,7 +1748,7 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1105,
+		"ips": 1106,
 		"common": 9
 	},
 	{
@@ -1754,7 +1760,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1447,
+		"ips": 1449,
 		"common": 21
 	},
 	{
