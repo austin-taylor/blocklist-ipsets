@@ -74,13 +74,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19733,
+		"ips": 19730,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 8860,
+		"ips": 8861,
 		"common": 1
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 2458,
+		"ips": 2455,
 		"common": 13
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14374,
+		"ips": 14373,
 		"common": 120
 	},
 	{
@@ -914,7 +914,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2902,
+		"ips": 2933,
 		"common": 4
 	},
 	{
@@ -1124,13 +1124,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5000,
+		"ips": 4999,
 		"common": 1
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1293,
+		"ips": 1292,
 		"common": 1
 	},
 	{
@@ -1200,10 +1200,16 @@
 		"common": 157
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 6576,
-		"common": 31
+		"ips": 6600,
+		"common": 32
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1214,7 +1220,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 14675,
+		"ips": 14674,
 		"common": 58
 	},
 	{
@@ -1286,13 +1292,13 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 52,
+		"ips": 53,
 		"common": 2
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 140,
+		"ips": 141,
 		"common": 4
 	},
 	{
