@@ -162,6 +162,18 @@
 		"common": 4
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 25202268,
+		"common": 1
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 25196288,
+		"common": 1
+	},
+	{
 		"name": "et_tor",
 		"category": "anonymizers",
 		"ips": 6990,
@@ -182,8 +194,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50399,
-		"common": 142
+		"ips": 50408,
+		"common": 143
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 661971887,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
@@ -206,8 +224,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37329,
-		"common": 142
+		"ips": 37338,
+		"common": 143
 	},
 	{
 		"name": "firehol_webclient",
@@ -282,10 +300,16 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 25196288,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "lashback_ubl",
@@ -518,19 +542,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 6691,
+		"ips": 6740,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21892,
+		"ips": 21901,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 14955,
+		"ips": 14965,
 		"common": 2
 	},
 	{
@@ -576,22 +600,28 @@
 		"common": 14
 	},
 	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 25196288,
+		"common": 1
+	},
+	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 63,
-		"common": 63
+		"ips": 62,
+		"common": 62
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2093,
-		"common": 142
+		"ips": 2094,
+		"common": 143
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 472,
-		"common": 142
+		"ips": 473,
+		"common": 143
 	},
 	{
 		"name": "stopforumspam",
