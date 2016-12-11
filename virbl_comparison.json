@@ -38,8 +38,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38548,
-		"common": 141
+		"ips": 38484,
+		"common": 80
 	},
 	{
 		"name": "firehol_level3",
@@ -57,7 +57,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 14
+		"common": 11
 	},
 	{
 		"name": "iblocklist_edu",
@@ -75,19 +75,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 8
-	},
-	{
-		"name": "iblocklist_pedophiles",
-		"category": "reputation",
-		"ips": 867825,
-		"common": 1
+		"common": 4
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 3456391,
-		"common": 121
+		"common": 65
 	},
 	{
 		"name": "nixspam",
@@ -104,7 +98,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 345,
+		"ips": 343,
 		"common": 1
 	},
 	{
@@ -153,25 +147,19 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 188292,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1507413,
-		"common": 9
+		"common": 5
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 4
-	},
-	{
-		"name": "stopforumspam_365d",
-		"category": "abuse",
-		"ips": 576399,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "turris_greylist",
