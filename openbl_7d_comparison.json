@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1496,
-		"common": 97
+		"ips": 1492,
+		"common": 96
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -56,44 +56,44 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4523,
+		"ips": 4520,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19736,
+		"ips": 19731,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28333,
-		"common": 382
+		"ips": 28116,
+		"common": 381
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10210,
+		"ips": 10204,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1206,
-		"common": 22
+		"ips": 1207,
+		"common": 21
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21232,
+		"ips": 21032,
 		"common": 29
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3609,
-		"common": 351
+		"ips": 3600,
+		"common": 350
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -114,22 +114,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 54,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1181,
-		"common": 1
+		"ips": 1169,
+		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16018,
-		"common": 7
+		"ips": 16023,
+		"common": 8
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5083,
-		"common": 3
+		"ips": 5075,
+		"common": 4
 	},
 	{
 		"name": "bruteforceblocker",
@@ -332,7 +338,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12273,
+		"ips": 12266,
 		"common": 7
 	},
 	{
@@ -350,8 +356,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36528,
-		"common": 590
+		"ips": 36317,
+		"common": 586
 	},
 	{
 		"name": "firehol_level3",
@@ -362,8 +368,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574982,
-		"common": 195
+		"ips": 9574987,
+		"common": 196
 	},
 	{
 		"name": "firehol_webserver",
@@ -386,7 +392,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1026,
+		"ips": 1031,
 		"common": 10
 	},
 	{
@@ -566,8 +572,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 350,
-		"common": 350
+		"ips": 356,
+		"common": 351
 	},
 	{
 		"name": "openbl_30d",
@@ -770,7 +776,7 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 13,
+		"ips": 14,
 		"common": 2
 	},
 	{
