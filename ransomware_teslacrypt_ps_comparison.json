@@ -24,6 +24,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 28213,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 3893,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 36970,
@@ -246,6 +258,12 @@
 		"common": 10975
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36168,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 123332,
@@ -254,7 +272,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574949,
+		"ips": 9574945,
 		"common": 3
 	},
 	{
