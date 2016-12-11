@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9710,
+		"ips": 9703,
 		"common": 588
 	},
 	{
@@ -128,8 +128,8 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3101,
-		"common": 62
+		"ips": 3098,
+		"common": 56
 	},
 	{
 		"name": "cleantalk_1d",
@@ -140,61 +140,61 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77876,
+		"ips": 77866,
 		"common": 1605
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21548,
-		"common": 519
+		"ips": 21546,
+		"common": 518
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1101,
-		"common": 17
+		"ips": 1098,
+		"common": 15
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 2787,
+		"ips": 2777,
 		"common": 38
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 37869,
+		"ips": 37866,
 		"common": 671
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 11392,
-		"common": 246
+		"ips": 11389,
+		"common": 245
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 45
+		"common": 41
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5663,
+		"ips": 5665,
 		"common": 163
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 56204,
+		"ips": 56197,
 		"common": 971
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13215,
+		"ips": 13216,
 		"common": 278
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 4630,
+		"ips": 4628,
 		"common": 2
 	},
 	{
@@ -344,13 +344,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12428,
+		"ips": 12421,
 		"common": 529
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221859,
+		"ips": 221850,
 		"common": 2682
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574744,
+		"ips": 9574737,
 		"common": 1041
 	},
 	{
@@ -586,6 +586,12 @@
 		"category": "abuse",
 		"ips": 96,
 		"common": 2
+	},
+	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 4686,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1034,7 +1040,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2583,
+		"ips": 2581,
 		"common": 2
 	},
 	{
