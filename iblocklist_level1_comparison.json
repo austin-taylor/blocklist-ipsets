@@ -144,6 +144,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 10,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 115,
@@ -182,8 +188,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1856,
-		"common": 70
+		"ips": 1857,
+		"common": 69
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -380,8 +386,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7108,
-		"common": 362
+		"ips": 7074,
+		"common": 363
 	},
 	{
 		"name": "bogons",
@@ -392,14 +398,14 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 50,
+		"ips": 55,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1135,
-		"common": 64
+		"ips": 1141,
+		"common": 63
 	},
 	{
 		"name": "botscout_30d",
@@ -410,7 +416,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5068,
+		"ips": 5077,
 		"common": 212
 	},
 	{
@@ -554,7 +560,7 @@
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 10017,
+		"ips": 10084,
 		"common": 271
 	},
 	{
@@ -866,8 +872,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11928,
-		"common": 493
+		"ips": 11935,
+		"common": 492
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -878,8 +884,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50526,
-		"common": 1566
+		"ips": 50430,
+		"common": 1565
 	},
 	{
 		"name": "firehol_level1",
@@ -891,7 +897,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 36497,
-		"common": 1654
+		"common": 1651
 	},
 	{
 		"name": "firehol_level3",
@@ -902,7 +908,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573524,
+		"ips": 9573588,
 		"common": 920985
 	},
 	{
@@ -914,7 +920,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14372,
+		"ips": 14439,
 		"common": 438
 	},
 	{
@@ -951,7 +957,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1057,
-		"common": 37
+		"common": 34
 	},
 	{
 		"name": "haley_ssh",
@@ -1442,8 +1448,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37672,
-		"common": 370
+		"ips": 37605,
+		"common": 372
 	},
 	{
 		"name": "nt_malware_dns",
