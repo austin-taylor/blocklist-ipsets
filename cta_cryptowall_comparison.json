@@ -114,28 +114,52 @@
 		"common": 96
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3119,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 7491,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77822,
-		"common": 10
+		"ips": 77806,
+		"common": 11
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 21554,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 5659,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 56178,
-		"common": 10
+		"ips": 56170,
+		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13224,
-		"common": 1
+		"ips": 13237,
+		"common": 2
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -176,7 +200,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 32961,
+		"ips": 32962,
 		"common": 1
 	},
 	{
@@ -204,10 +228,16 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 12326,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221831,
-		"common": 11
+		"ips": 221818,
+		"common": 12
 	},
 	{
 		"name": "firehol_level1",
@@ -230,7 +260,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14376,
+		"ips": 14375,
 		"common": 15
 	},
 	{
@@ -432,6 +462,12 @@
 		"common": 12
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38631,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -470,7 +506,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1295,
+		"ips": 1294,
 		"common": 12
 	},
 	{
