@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29402,
+		"ips": 29314,
 		"common": 246
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36893,
+		"ips": 36807,
 		"common": 246
 	},
 	{
@@ -171,7 +171,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50984830,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "gofferje_sip",
@@ -219,7 +219,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -285,7 +285,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50750600,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "ransomware_feed",
@@ -387,6 +387,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 18256,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 21859,
+		"common": 1
 	}
 ]
