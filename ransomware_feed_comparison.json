@@ -32,7 +32,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 261,
+		"ips": 258,
 		"common": 38
 	},
 	{
@@ -81,7 +81,7 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8115,
+		"ips": 8165,
 		"common": 64
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661971887,
+		"ips": 661971884,
 		"common": 279
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573484,
+		"ips": 9573532,
 		"common": 346
 	},
 	{
@@ -777,7 +777,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690221,
-		"common": 200
+		"common": 201
 	},
 	{
 		"name": "iblocklist_level2",
@@ -825,6 +825,12 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 25196288,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spider",
+		"category": "organizations",
+		"ips": 860168,
 		"common": 1
 	},
 	{
