@@ -9,7 +9,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 258,
-		"common": 117
+		"common": 118
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -87,7 +87,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 661975980,
-		"common": 117
+		"common": 118
 	},
 	{
 		"name": "firehol_level3",
@@ -98,20 +98,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574777,
+		"ips": 9574749,
 		"common": 23
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14375,
+		"ips": 14373,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50984732,
-		"common": 72
+		"common": 74
 	},
 	{
 		"name": "gofferje_sip",
@@ -129,7 +129,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 22955,
-		"common": 37
+		"common": 38
 	},
 	{
 		"name": "hphosts_exp",
@@ -141,7 +141,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 28896,
-		"common": 46
+		"common": 47
 	},
 	{
 		"name": "hphosts_grm",
@@ -165,7 +165,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 18942,
-		"common": 37
+		"common": 38
 	},
 	{
 		"name": "hphosts_wrz",
@@ -195,13 +195,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -225,13 +225,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 85
+		"common": 87
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "malc0de",
@@ -249,12 +249,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50750600,
-		"common": 30
+		"common": 32
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4998,
+		"ips": 4997,
 		"common": 18
 	},
 	{
@@ -266,13 +266,19 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1294,
+		"ips": 1292,
 		"common": 1
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6205173,
+		"ips": 6205179,
+		"common": 1
+	},
+	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136184374,
 		"common": 1
 	},
 	{
