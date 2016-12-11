@@ -44,8 +44,8 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 164,
-		"common": 162
+		"ips": 163,
+		"common": 161
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
@@ -57,31 +57,31 @@
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 4588,
-		"common": 2821
+		"common": 2815
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 1801,
-		"common": 1471
+		"common": 1469
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5428,
-		"common": 4231
+		"ips": 5425,
+		"common": 4222
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
 		"ips": 19752,
-		"common": 4231
+		"common": 4222
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 8857,
-		"common": 4231
+		"ips": 8853,
+		"common": 4222
 	},
 	{
 		"name": "blocklist_de",
@@ -309,7 +309,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50984732,
-		"common": 1020
+		"common": 1021
 	},
 	{
 		"name": "fullbogons",
@@ -417,7 +417,7 @@
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "iblocklist_isp_cablevision",
@@ -435,7 +435,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 189
+		"common": 188
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -447,7 +447,7 @@
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "iblocklist_isp_sprint",
@@ -465,7 +465,7 @@
 		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
 		"ips": 18087936,
-		"common": 56
+		"common": 55
 	},
 	{
 		"name": "iblocklist_level1",
@@ -477,7 +477,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 391
+		"common": 390
 	},
 	{
 		"name": "iblocklist_level3",
@@ -591,7 +591,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50750600,
-		"common": 1011
+		"common": 1012
 	},
 	{
 		"name": "sblam",
@@ -602,7 +602,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 1971,
+		"ips": 1960,
 		"common": 5
 	},
 	{
@@ -615,13 +615,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375550513,
-		"common": 662
+		"common": 659
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22993510,
-		"common": 63
+		"common": 62
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -639,7 +639,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 68
+		"common": 63
 	},
 	{
 		"name": "sp_atma",
