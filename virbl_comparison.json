@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 30684,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blocklist_de",
@@ -32,20 +32,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36722,
-		"common": 12
+		"ips": 36725,
+		"common": 13
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 123332,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level2",
@@ -69,7 +69,7 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 14563,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "openbl_1d",
@@ -81,19 +81,19 @@
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 5357,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 23074,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 7880,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "openbl_7d",
@@ -105,13 +105,13 @@
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 9895,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 132055,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -124,6 +124,12 @@
 		"category": "spam",
 		"ips": 1508168,
 		"common": 2
+	},
+	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136184374,
+		"common": 1
 	},
 	{
 		"name": "turris_greylist",
