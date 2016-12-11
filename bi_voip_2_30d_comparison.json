@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1493,
-		"common": 3
+		"ips": 1495,
+		"common": 4
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28931,
+		"ips": 28945,
 		"common": 5
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 410,
+		"ips": 411,
 		"common": 8
 	},
 	{
@@ -140,8 +140,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37113,
-		"common": 7
+		"ips": 37396,
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -160,6 +160,12 @@
 		"category": "attacks",
 		"ips": 1095392,
 		"common": 29
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1024,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
