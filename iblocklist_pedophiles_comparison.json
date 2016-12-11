@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 714,
+		"ips": 715,
 		"common": 2
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9620,
+		"ips": 9602,
 		"common": 84
 	},
 	{
@@ -176,26 +176,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6997,
-		"common": 7
+		"ips": 7010,
+		"common": 8
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 58,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1173,
-		"common": 16
+		"ips": 1203,
+		"common": 17
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 15953,
-		"common": 385
+		"common": 386
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5099,
-		"common": 92
+		"ips": 5092,
+		"common": 93
 	},
 	{
 		"name": "botvrij_dst",
@@ -368,7 +374,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2580,
+		"ips": 2579,
 		"common": 1
 	},
 	{
@@ -548,7 +554,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12544,
+		"ips": 12564,
 		"common": 222
 	},
 	{
@@ -560,7 +566,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 49923,
+		"ips": 49913,
 		"common": 49
 	},
 	{
@@ -572,19 +578,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42399,
+		"ips": 42418,
 		"common": 204
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 124092,
+		"ips": 124095,
 		"common": 342
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574604,
+		"ips": 9574586,
 		"common": 828
 	},
 	{
@@ -626,7 +632,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1416,
+		"ips": 1437,
 		"common": 7
 	},
 	{
@@ -914,8 +920,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38040,
-		"common": 424
+		"ips": 38170,
+		"common": 416
 	},
 	{
 		"name": "nullsecure",
@@ -1340,7 +1346,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 1960,
+		"ips": 1956,
 		"common": 3
 	},
 	{
