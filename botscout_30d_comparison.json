@@ -350,7 +350,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 4628,
+		"ips": 4625,
 		"common": 65
 	},
 	{
@@ -918,6 +918,12 @@
 		"common": 48
 	},
 	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 4584,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
@@ -1016,8 +1022,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 3432,
-		"common": 66
+		"ips": 3495,
+		"common": 64
 	},
 	{
 		"name": "php_commenters",
