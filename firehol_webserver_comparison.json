@@ -176,8 +176,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 15,
-		"common": 14
+		"ips": 14,
+		"common": 13
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -302,8 +302,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29309,
-		"common": 5026
+		"ips": 29242,
+		"common": 5024
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -314,13 +314,13 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1447,
-		"common": 367
+		"ips": 1445,
+		"common": 366
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1306,
+		"ips": 1309,
 		"common": 54
 	},
 	{
@@ -332,13 +332,13 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1225,
+		"ips": 1220,
 		"common": 66
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20562,
+		"ips": 20500,
 		"common": 4381
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5056,
-		"common": 176
+		"ips": 5054,
+		"common": 175
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -362,7 +362,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8215,
+		"ips": 8182,
 		"common": 1851
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 410,
+		"ips": 412,
 		"common": 89
 	},
 	{
@@ -926,8 +926,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36564,
-		"common": 5608
+		"ips": 36497,
+		"common": 5607
 	},
 	{
 		"name": "firehol_level3",
@@ -938,20 +938,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573570,
+		"ips": 9573539,
 		"common": 56896
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37394,
+		"ips": 37396,
 		"common": 1992
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14371,
-		"common": 3098
+		"ips": 14372,
+		"common": 3099
 	},
 	{
 		"name": "fullbogons",
@@ -1424,8 +1424,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37707,
-		"common": 510
+		"ips": 37672,
+		"common": 511
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1682,26 +1682,26 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 300,
-		"common": 52
+		"ips": 299,
+		"common": 56
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1216,
-		"common": 163
+		"ips": 1183,
+		"common": 160
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7599,
+		"ips": 7596,
 		"common": 637
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3253,
-		"common": 321
+		"ips": 3246,
+		"common": 320
 	},
 	{
 		"name": "proxz",
@@ -1736,8 +1736,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4998,
-		"common": 4074
+		"ips": 5000,
+		"common": 4076
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1754,8 +1754,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1289,
-		"common": 1093
+		"ips": 1290,
+		"common": 1094
 	},
 	{
 		"name": "ransomware_rw",
@@ -1851,12 +1851,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 6634,
+		"ips": 6658,
 		"common": 167
 	},
 	{
@@ -1868,7 +1868,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 14969,
+		"ips": 14966,
 		"common": 327
 	},
 	{
@@ -1958,7 +1958,7 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 64,
+		"ips": 62,
 		"common": 19
 	},
 	{
@@ -2048,25 +2048,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1051,
+		"ips": 1049,
 		"common": 349
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1106,
+		"ips": 1107,
 		"common": 357
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2584,
+		"ips": 2583,
 		"common": 515
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1458,
+		"ips": 1455,
 		"common": 403
 	},
 	{

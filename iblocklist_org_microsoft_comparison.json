@@ -98,13 +98,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29309,
+		"ips": 29242,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5056,
+		"ips": 5054,
 		"common": 1
 	},
 	{
@@ -276,6 +276,12 @@
 		"common": 10
 	},
 	{
+		"name": "dataplane_sipquery",
+		"category": "attacks",
+		"ips": 412,
+		"common": 1
+	},
+	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 4642,
@@ -368,7 +374,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36564,
+		"ips": 36497,
 		"common": 1
 	},
 	{
@@ -380,19 +386,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573570,
+		"ips": 9573539,
 		"common": 183
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37394,
+		"ips": 37396,
 		"common": 7
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14371,
+		"ips": 14372,
 		"common": 13
 	},
 	{
@@ -740,7 +746,7 @@
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7599,
+		"ips": 7596,
 		"common": 4
 	},
 	{
@@ -770,7 +776,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4998,
+		"ips": 5000,
 		"common": 1
 	},
 	{
