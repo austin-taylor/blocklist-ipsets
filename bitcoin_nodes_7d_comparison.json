@@ -24,6 +24,12 @@
 		"common": 5
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 1482,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9918,
@@ -134,13 +140,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15991,
+		"ips": 15987,
 		"common": 5
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5113,
+		"ips": 5105,
 		"common": 3
 	},
 	{
@@ -296,7 +302,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50037,
+		"ips": 50036,
 		"common": 102
 	},
 	{
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40590,
+		"ips": 40584,
 		"common": 1
 	},
 	{
@@ -320,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574748,
+		"ips": 9574744,
 		"common": 25
 	},
 	{
@@ -603,6 +609,12 @@
 		"name": "myip",
 		"category": "abuse",
 		"ips": 2690,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38710,
 		"common": 1
 	},
 	{
