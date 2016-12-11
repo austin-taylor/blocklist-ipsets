@@ -50,8 +50,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 262,
-		"common": 262
+		"ips": 259,
+		"common": 259
 	},
 	{
 		"name": "bambenek_matsnu",
@@ -824,19 +824,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12350,
-		"common": 356
+		"ips": 12359,
+		"common": 357
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221814,
+		"ips": 221831,
 		"common": 5994
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50217,
+		"ips": 50215,
 		"common": 18
 	},
 	{
@@ -848,7 +848,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 124215,
+		"ips": 124216,
 		"common": 6476
 	},
 	{
@@ -860,7 +860,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37116,
+		"ips": 37114,
 		"common": 5
 	},
 	{
@@ -873,7 +873,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50984830,
-		"common": 21988
+		"common": 21987
 	},
 	{
 		"name": "fullbogons",
@@ -933,7 +933,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 28896,
-		"common": 342
+		"common": 341
 	},
 	{
 		"name": "hphosts_grm",
@@ -1137,13 +1137,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 13453531
+		"common": 13453530
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 4925347
+		"common": 4925346
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -1227,7 +1227,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 544
+		"common": 542
 	},
 	{
 		"name": "jigsaw_malware",
@@ -1371,25 +1371,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 89,
-		"common": 4
+		"ips": 94,
+		"common": 6
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 909,
-		"common": 17
+		"ips": 926,
+		"common": 18
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 283,
-		"common": 7
+		"ips": 273,
+		"common": 8
 	},
 	{
 		"name": "php_dictionary_1d",
@@ -1628,7 +1628,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21689,
+		"ips": 21687,
 		"common": 1
 	},
 	{
