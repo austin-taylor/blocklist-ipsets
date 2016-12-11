@@ -56,7 +56,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1857,
+		"ips": 1859,
 		"common": 2
 	},
 	{
@@ -128,25 +128,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29211,
+		"ips": 29208,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10325,
+		"ips": 10327,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20444,
+		"ips": 20428,
 		"common": 3
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8147,
+		"ips": 8150,
 		"common": 5
 	},
 	{
@@ -180,21 +180,27 @@
 		"common": 336
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 53,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1141,
+		"ips": 1140,
 		"common": 10
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16076,
+		"ips": 16082,
 		"common": 43
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5077,
+		"ips": 5083,
 		"common": 23
 	},
 	{
@@ -338,7 +344,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 288838,
+		"ips": 288899,
 		"common": 65
 	},
 	{
@@ -434,7 +440,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11929,
+		"ips": 11937,
 		"common": 50
 	},
 	{
@@ -446,7 +452,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50439,
+		"ips": 50446,
 		"common": 347
 	},
 	{
@@ -464,19 +470,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 123316,
+		"ips": 123319,
 		"common": 93
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573568,
+		"ips": 9573576,
 		"common": 97
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37389,
+		"ips": 37396,
 		"common": 31
 	},
 	{
@@ -512,7 +518,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1057,
+		"ips": 1060,
 		"common": 1
 	},
 	{
@@ -806,7 +812,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37559,
+		"ips": 37471,
 		"common": 1
 	},
 	{
@@ -1046,8 +1052,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3640,
-		"common": 25
+		"ips": 3652,
+		"common": 24
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1088,7 +1094,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 1969,
+		"ips": 1967,
 		"common": 73
 	},
 	{
