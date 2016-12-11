@@ -80,8 +80,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1857,
-		"common": 435
+		"ips": 1856,
+		"common": 434
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -128,7 +128,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19696,
+		"ips": 19697,
 		"common": 1
 	},
 	{
@@ -236,25 +236,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 37,
-		"common": 17
+		"ips": 50,
+		"common": 12
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1138,
-		"common": 169
+		"ips": 1135,
+		"common": 167
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16072,
+		"ips": 16076,
 		"common": 746
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5069,
+		"ips": 5068,
 		"common": 425
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12007,
+		"ips": 12009,
 		"common": 874
 	},
 	{
@@ -627,7 +627,7 @@
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 50503,
-		"common": 2888
+		"common": 2889
 	},
 	{
 		"name": "firehol_level1",
@@ -638,7 +638,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36552,
+		"ips": 36568,
 		"common": 29314
 	},
 	{
@@ -650,14 +650,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573584,
+		"ips": 9573587,
 		"common": 1606
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
 		"ips": 37395,
-		"common": 2886
+		"common": 2887
 	},
 	{
 		"name": "firehol_webclient",
@@ -698,8 +698,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1049,
-		"common": 161
+		"ips": 1057,
+		"common": 164
 	},
 	{
 		"name": "haley_ssh",
@@ -1058,8 +1058,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 404,
-		"common": 152
+		"ips": 411,
+		"common": 147
 	},
 	{
 		"name": "openbl_30d",
@@ -1316,7 +1316,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 4996,
+		"ips": 4999,
 		"common": 4
 	},
 	{
@@ -1401,25 +1401,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 9
+		"common": 18
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 6651,
-		"common": 1436
+		"ips": 6647,
+		"common": 1440
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 21922,
-		"common": 2724
+		"common": 2725
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 14970,
-		"common": 2576
+		"ips": 14969,
+		"common": 2578
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1490,7 +1490,7 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 65,
+		"ips": 61,
 		"common": 13
 	},
 	{
@@ -1612,12 +1612,6 @@
 		"category": "reputation",
 		"ips": 18256,
 		"common": 469
-	},
-	{
-		"name": "virbl",
-		"category": "spam",
-		"ips": 12,
-		"common": 1
 	},
 	{
 		"name": "voipbl",
