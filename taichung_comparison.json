@@ -84,6 +84,12 @@
 		"common": 2
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 261,
+		"common": 1
+	},
+	{
 		"name": "bambenek_tinba",
 		"category": "malware",
 		"ips": 14,
@@ -110,7 +116,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 715,
+		"ips": 711,
 		"common": 42
 	},
 	{
@@ -164,44 +170,44 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31207,
-		"common": 218
+		"ips": 31156,
+		"common": 220
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9873,
+		"ips": 9900,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1391,
+		"ips": 1394,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1264,
+		"ips": 1266,
 		"common": 5
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24480,
+		"ips": 24377,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 204,
+		"ips": 200,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 3562,
-		"common": 188
+		"ips": 3580,
+		"common": 190
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -212,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9811,
+		"ips": 9835,
 		"common": 77
 	},
 	{
@@ -246,27 +252,21 @@
 		"common": 21
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 58,
-		"common": 2
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1203,
+		"ips": 1191,
 		"common": 7
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15953,
+		"ips": 15958,
 		"common": 52
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5092,
+		"ips": 5093,
 		"common": 23
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 100137,
+		"ips": 100138,
 		"common": 19
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12548,
+		"ips": 12534,
 		"common": 43
 	},
 	{
@@ -554,14 +554,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661975980,
-		"common": 197
+		"ips": 661975981,
+		"common": 198
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42076,
-		"common": 387
+		"ips": 42022,
+		"common": 388
 	},
 	{
 		"name": "firehol_level3",
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574779,
+		"ips": 9574808,
 		"common": 261
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14342,
+		"ips": 14344,
 		"common": 6
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1437,
+		"ips": 1436,
 		"common": 46
 	},
 	{
@@ -1064,13 +1064,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5002,
+		"ips": 5003,
 		"common": 4
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1289,
+		"ips": 1291,
 		"common": 1
 	},
 	{
