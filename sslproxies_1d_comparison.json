@@ -8,19 +8,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30158,
+		"ips": 29988,
 		"common": 26
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1401,
+		"ips": 1398,
 		"common": 23
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23343,
+		"ips": 23171,
 		"common": 3
 	},
 	{
@@ -140,13 +140,13 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7015,
+		"ips": 7035,
 		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 288565,
+		"ips": 288642,
 		"common": 37
 	},
 	{
@@ -182,13 +182,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50018,
-		"common": 140
+		"ips": 49987,
+		"common": 142
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40908,
+		"ips": 40738,
 		"common": 26
 	},
 	{
@@ -206,13 +206,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36989,
-		"common": 140
+		"ips": 36994,
+		"common": 142
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14370,
+		"ips": 14371,
 		"common": 1
 	},
 	{
@@ -249,7 +249,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690690,
-		"common": 5
+		"common": 7
 	},
 	{
 		"name": "iblocklist_level2",
@@ -536,13 +536,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21557,
+		"ips": 21560,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 14637,
+		"ips": 14640,
 		"common": 2
 	},
 	{
@@ -590,20 +590,20 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 54,
-		"common": 54
+		"ips": 53,
+		"common": 53
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2088,
-		"common": 140
+		"ips": 2090,
+		"common": 142
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 474,
-		"common": 140
+		"ips": 476,
+		"common": 142
 	},
 	{
 		"name": "stopforumspam",
