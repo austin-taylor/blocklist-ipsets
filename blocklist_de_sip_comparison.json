@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30780,
-		"common": 130
+		"ips": 30531,
+		"common": 131
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -56,13 +56,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77924,
+		"ips": 77913,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 56207,
+		"ips": 56208,
 		"common": 1
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 305890,
+		"ips": 305887,
 		"common": 1
 	},
 	{
@@ -116,14 +116,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221875,
+		"ips": 221872,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41590,
-		"common": 130
+		"ips": 41339,
+		"common": 131
 	},
 	{
 		"name": "firehol_level3",
@@ -249,6 +249,12 @@
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
 		"ips": 412,
+		"common": 2
+	},
+	{
+		"name": "ipblacklistcloud_recent_7d",
+		"category": "abuse",
+		"ips": 96,
 		"common": 1
 	},
 	{
@@ -296,7 +302,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1506579,
+		"ips": 1507413,
 		"common": 1
 	},
 	{
