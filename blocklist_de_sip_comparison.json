@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 30684,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "atlas_scans",
@@ -74,13 +74,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29347,
-		"common": 172
+		"ips": 29402,
+		"common": 171
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8239,
+		"ips": 8223,
 		"common": 3
 	},
 	{
@@ -129,13 +129,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 4642,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 2468,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dronebl_anonymizers",
@@ -194,19 +194,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36839,
-		"common": 172
+		"ips": 36893,
+		"common": 171
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 123397,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573594,
+		"ips": 9573578,
 		"common": 15
 	},
 	{
@@ -380,56 +380,50 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37820,
+		"ips": 37789,
 		"common": 1
 	},
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 14568,
-		"common": 3
-	},
-	{
-		"name": "openbl_1d",
-		"category": "attacks",
-		"ips": 404,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 5355,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 23082,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 7879,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
 		"ips": 2425,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 9905,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 132139,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "packetmail",
@@ -495,7 +489,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11172,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "turris_greylist",
