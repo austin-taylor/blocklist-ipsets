@@ -74,13 +74,13 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 121,
-		"common": 34
+		"ips": 118,
+		"common": 33
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 56,
+		"ips": 55,
 		"common": 24
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9816,
+		"ips": 9844,
 		"common": 238
 	},
 	{
@@ -348,39 +348,63 @@
 		"common": 1687
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3125,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 7521,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 77837,
+		"ips": 77822,
 		"common": 166
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 21569,
+		"ips": 21554,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 37843,
+		"ips": 37831,
 		"common": 57
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 11404,
+		"ips": 11397,
 		"common": 3
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 5660,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 56185,
+		"ips": 56178,
 		"common": 114
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13234,
+		"ips": 13224,
 		"common": 8
 	},
 	{
@@ -596,13 +620,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12352,
-		"common": 13
+		"ips": 12350,
+		"common": 14
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221830,
+		"ips": 221814,
 		"common": 190
 	},
 	{
@@ -632,7 +656,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9574870,
+		"ips": 9574893,
 		"common": 2165
 	},
 	{
@@ -1052,7 +1076,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38669,
+		"ips": 38651,
 		"common": 14
 	},
 	{
@@ -1514,7 +1538,7 @@
 	{
 		"name": "zeus",
 		"category": "malware",
-		"ips": 149,
+		"ips": 150,
 		"common": 15
 	},
 	{
