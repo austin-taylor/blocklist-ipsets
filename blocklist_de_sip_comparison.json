@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 30684,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "atlas_scans_30d",
@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28426,
-		"common": 128
+		"ips": 28514,
+		"common": 129
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -57,7 +57,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 7355,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -122,14 +122,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36617,
-		"common": 128
+		"ips": 36704,
+		"common": 129
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 124236,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
@@ -165,7 +165,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1024,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "haley_ssh",
@@ -183,7 +183,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 7142,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -303,7 +303,7 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 132027,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -363,6 +363,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 21831,
-		"common": 43
+		"common": 44
 	}
 ]
