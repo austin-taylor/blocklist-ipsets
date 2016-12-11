@@ -9,13 +9,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 9918,
-		"common": 72
+		"common": 73
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 4526,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -27,7 +27,7 @@
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 213,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -38,14 +38,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29367,
-		"common": 1283
+		"ips": 29311,
+		"common": 1289
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10305,
-		"common": 1283
+		"ips": 10306,
+		"common": 1289
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -248,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37117,
-		"common": 1283
+		"ips": 37062,
+		"common": 1289
 	},
 	{
 		"name": "firehol_level3",
@@ -273,19 +273,19 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50984830,
-		"common": 50
+		"common": 53
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095393,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
 		"ips": 3706,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "greensnow",
@@ -321,7 +321,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 27
+		"common": 26
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -363,7 +363,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690221,
-		"common": 40
+		"common": 44
 	},
 	{
 		"name": "iblocklist_level2",
@@ -375,7 +375,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 52
+		"common": 53
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -446,7 +446,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37986,
+		"ips": 37941,
 		"common": 2
 	},
 	{
@@ -483,7 +483,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 50750600,
-		"common": 48
+		"common": 51
 	},
 	{
 		"name": "sblam",
@@ -501,7 +501,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375550513,
-		"common": 149
+		"common": 152
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -525,7 +525,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6205204,
-		"common": 73
+		"common": 74
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -591,7 +591,7 @@
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "turris_greylist",
