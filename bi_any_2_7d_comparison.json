@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50065,
+		"ips": 50066,
 		"common": 253
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37010,
+		"ips": 37011,
 		"common": 252
 	},
 	{
@@ -662,8 +662,8 @@
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
-		"ips": 6971,
-		"common": 35
+		"ips": 7142,
+		"common": 37
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -1224,21 +1224,27 @@
 		"common": 17
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 6584,
+		"ips": 6592,
 		"common": 84
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21586,
+		"ips": 21587,
 		"common": 200
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 14692,
+		"ips": 14694,
 		"common": 148
 	},
 	{
