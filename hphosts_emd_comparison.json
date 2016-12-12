@@ -60,6 +60,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_bebloh",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 257,
@@ -104,7 +110,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 15,
+		"ips": 14,
 		"common": 12
 	},
 	{
@@ -152,25 +158,25 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4481,
+		"ips": 4480,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4297,
+		"ips": 4302,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5423,
+		"ips": 5419,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 19689,
+		"ips": 19681,
 		"common": 3
 	},
 	{
@@ -212,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8124,
+		"ips": 8119,
 		"common": 171
 	},
 	{
@@ -452,7 +458,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 33002,
+		"ips": 33003,
 		"common": 3
 	},
 	{
@@ -596,13 +602,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11855,
+		"ips": 11856,
 		"common": 11
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221845,
+		"ips": 221859,
 		"common": 113
 	},
 	{
@@ -614,7 +620,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 661971882,
+		"ips": 661971883,
 		"common": 192
 	},
 	{
@@ -992,7 +998,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 4139,
+		"ips": 4110,
 		"common": 7
 	},
 	{
@@ -1148,7 +1154,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11489,
+		"ips": 11490,
 		"common": 13
 	},
 	{
@@ -1178,7 +1184,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21985,
+		"ips": 21984,
 		"common": 1
 	},
 	{
@@ -1250,8 +1256,8 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 287645,
-		"common": 39
+		"ips": 287570,
+		"common": 40
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1268,8 +1274,8 @@
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 576399,
-		"common": 70
+		"ips": 576449,
+		"common": 71
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -1310,7 +1316,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2587,
+		"ips": 2586,
 		"common": 1
 	},
 	{
