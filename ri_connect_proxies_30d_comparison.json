@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8008,
+		"ips": 8018,
 		"common": 10
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6999,
+		"ips": 7015,
 		"common": 2
 	},
 	{
@@ -208,6 +208,30 @@
 		"category": "malware",
 		"ips": 100202,
 		"common": 501
+	},
+	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7168,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 45312,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 19200,
+		"common": 1
 	},
 	{
 		"name": "esentire_getarohirodrons_com",
@@ -248,31 +272,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50509,
+		"ips": 50562,
 		"common": 2444
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 661971896,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35376,
-		"common": 43
+		"ips": 37400,
+		"common": 44
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 122894,
-		"common": 115
+		"ips": 123150,
+		"common": 116
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573443,
+		"ips": 9573453,
 		"common": 341
 	},
 	{
@@ -866,13 +890,13 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 66,
-		"common": 10
+		"ips": 63,
+		"common": 12
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 159,
+		"ips": 158,
 		"common": 31
 	},
 	{
@@ -884,7 +908,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 373,
+		"ips": 372,
 		"common": 80
 	}
 ]

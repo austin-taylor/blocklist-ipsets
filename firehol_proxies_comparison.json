@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8008,
+		"ips": 8018,
 		"common": 47
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6999,
+		"ips": 7015,
 		"common": 195
 	},
 	{
@@ -342,16 +342,28 @@
 		"common": 3404
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7168,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 45056,
-		"common": 20
+		"ips": 45312,
+		"common": 21
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 18432,
-		"common": 7
+		"ips": 19200,
+		"common": 8
 	},
 	{
 		"name": "esentire_crazyerror_su",
@@ -434,31 +446,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50509,
+		"ips": 50562,
 		"common": 37419
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 661971896,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35376,
-		"common": 2975
+		"ips": 37400,
+		"common": 2976
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 122894,
-		"common": 907
+		"ips": 123150,
+		"common": 908
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9573443,
+		"ips": 9573453,
 		"common": 1764
 	},
 	{
@@ -1334,14 +1346,14 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 66,
-		"common": 66
+		"ips": 63,
+		"common": 63
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 159,
-		"common": 159
+		"ips": 158,
+		"common": 158
 	},
 	{
 		"name": "xroxy_30d",
@@ -1352,7 +1364,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 373,
-		"common": 373
+		"ips": 372,
+		"common": 372
 	}
 ]
