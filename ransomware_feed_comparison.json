@@ -290,7 +290,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7015,
+		"ips": 7019,
 		"common": 1
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50457,
+		"ips": 50505,
 		"common": 1
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37693,
+		"ips": 37689,
 		"common": 5
 	},
 	{
@@ -572,14 +572,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14437,
-		"common": 1316
+		"ips": 14438,
+		"common": 1317
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 50985446,
-		"common": 4074
+		"common": 4075
 	},
 	{
 		"name": "fullbogons",
@@ -627,7 +627,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 23106,
-		"common": 3818
+		"common": 3819
 	},
 	{
 		"name": "hphosts_exp",
@@ -738,12 +738,6 @@
 		"common": 2
 	},
 	{
-		"name": "iblocklist_isp_att",
-		"category": "organizations",
-		"ips": 55845128,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
@@ -786,12 +780,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_org_blizzard",
-		"category": "organizations",
-		"ips": 16795139,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_org_microsoft",
 		"category": "organizations",
 		"ips": 1848447,
@@ -801,7 +789,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -944,8 +932,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 1288,
-		"common": 1288
+		"ips": 1289,
+		"common": 1289
 	},
 	{
 		"name": "ransomware_rw",
