@@ -38,19 +38,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29143,
+		"ips": 29198,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1497,
+		"ips": 1500,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20290,
+		"ips": 20330,
 		"common": 1
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50455,
+		"ips": 50464,
 		"common": 11
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37385,
+		"ips": 37439,
 		"common": 17
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37452,
+		"ips": 37461,
 		"common": 9
 	},
 	{
@@ -530,8 +530,8 @@
 	{
 		"name": "sblam",
 		"category": "abuse",
-		"ips": 9064,
-		"common": 26
+		"ips": 9075,
+		"common": 28
 	},
 	{
 		"name": "snort_ipfilter",
@@ -579,12 +579,6 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 1
-	},
-	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 67,
 		"common": 1
 	},
 	{
