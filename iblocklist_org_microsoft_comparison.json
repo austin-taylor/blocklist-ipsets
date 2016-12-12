@@ -98,13 +98,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29015,
+		"ips": 29143,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 5115,
+		"ips": 5111,
 		"common": 1
 	},
 	{
@@ -350,19 +350,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11823,
+		"ips": 11786,
 		"common": 78
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 221859,
-		"common": 515
+		"ips": 221426,
+		"common": 514
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50450,
+		"ips": 50455,
 		"common": 10
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37256,
+		"ips": 37385,
 		"common": 1
 	},
 	{
@@ -392,13 +392,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37447,
+		"ips": 37452,
 		"common": 7
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 14438,
+		"ips": 14437,
 		"common": 13
 	},
 	{
@@ -698,25 +698,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1138,
+		"ips": 1141,
 		"common": 3
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2574,
+		"ips": 2602,
 		"common": 3
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 10274,
+		"ips": 10282,
 		"common": 3
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5167,
+		"ips": 5170,
 		"common": 3
 	},
 	{
@@ -750,21 +750,27 @@
 		"common": 4
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 22,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 230,
+		"ips": 227,
 		"common": 3
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2610,
+		"ips": 2612,
 		"common": 3
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 975,
+		"ips": 974,
 		"common": 3
 	},
 	{
@@ -902,8 +908,8 @@
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
-		"ips": 148768,
-		"common": 5
+		"ips": 148685,
+		"common": 4
 	},
 	{
 		"name": "stopforumspam_180d",
