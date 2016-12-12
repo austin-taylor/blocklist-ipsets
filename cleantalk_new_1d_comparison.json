@@ -14,38 +14,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29145,
-		"common": 164
+		"ips": 29015,
+		"common": 166
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10333,
+		"ips": 10325,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1504,
-		"common": 110
+		"ips": 1499,
+		"common": 111
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1315,
+		"ips": 1314,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1225,
+		"ips": 1213,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20232,
-		"common": 49
+		"ips": 20154,
+		"common": 50
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 50562,
+		"ips": 50560,
 		"common": 305
 	},
 	{
@@ -248,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37400,
-		"common": 164
+		"ips": 37266,
+		"common": 166
 	},
 	{
 		"name": "firehol_level3",
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 37452,
+		"ips": 37450,
 		"common": 296
 	},
 	{
@@ -648,21 +648,27 @@
 		"common": 10
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 6554,
-		"common": 170
+		"ips": 6593,
+		"common": 171
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 21995,
+		"ips": 21997,
 		"common": 222
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 15035,
+		"ips": 15047,
 		"common": 220
 	},
 	{
@@ -716,7 +722,7 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 61,
+		"ips": 62,
 		"common": 11
 	},
 	{
@@ -728,7 +734,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2081,
+		"ips": 2077,
 		"common": 14
 	},
 	{
